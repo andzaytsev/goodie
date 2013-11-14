@@ -6,6 +6,9 @@ to communicate with the candidates.
 GOODIE started at Midwest Regional Hackathon on November 09, 2013.
 
 
+![GOODIE Screenshot] (https://github.com/andzaytsev/goodie/raw/master/img/goodie_scr.jpg "Generated Google Docs File")
+
+
 Prerequisites
 -------------
 
